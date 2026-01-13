@@ -46,7 +46,7 @@ A comprehensive, professional Discord logging system for **ox_inventory** with a
 
 ```bash
 # Clone or download the resource
-git clone https://github.com/yourrepo/ox-inventory-logs.git
+git clone https://github.com/zqmvo/zqmvo_ox_logs.git
 
 # Or download ZIP and extract to your resources folder
 ```
@@ -54,7 +54,7 @@ git clone https://github.com/yourrepo/ox-inventory-logs.git
 ### 2. File Structure Setup
 
 ```
-resources/ox_inventory_logs/
+resources/zqmvo_ox_logs/
 ├── 📄 fxmanifest.lua
 ├── 📁 configs/
 │   └── 📄 sv_logs.lua
